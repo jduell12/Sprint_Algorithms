@@ -93,11 +93,11 @@ Inside the `robot_sort` directory you'll find the `robot_sort.js` file. Open it 
 
 * The robot has exactly one bit of memory: its light. Why is this important?
 
-Run `jest robot.test.js` to run the tests for your `robot_sort()` function to ensure that your implementation is correct.
+Run `jest robot_sort.test.js` to run the tests for your `robot_sort()` function to ensure that your implementation is correct.
 
 ### Stretch 
 
-Uncomment the `test_stretch_times()` test in `robot.test.js`. Can you optimize your robot sort to perform better than the given times?
+Uncomment the `test_stretch_times()` test in `robot_sort.test.js`. Can you optimize your robot sort to perform better than the given times?
 
 ## Rubric
 | OBJECTIVE | TASK | 1 - DOES NOT MEET Expectations | 2 - MEETS Expectations | 3 - EXCEEDS Expectations | SCORE |
